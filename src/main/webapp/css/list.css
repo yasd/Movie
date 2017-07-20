@@ -1,0 +1,27 @@
+#imgOuter{
+	margin-top:20px;
+}
+
+
+#e1{
+	color:red;
+}
+#e2{
+	color:green;
+}
+
+.focuss{
+	color:#000;
+}
+.success{
+	color: green;
+}
+.error{
+	color: red;
+}
+.errinput{
+	border:2px solid red;
+}
+.sucinput{
+	border:0;
+}
